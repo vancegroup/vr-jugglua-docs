@@ -1,0 +1,23 @@
+Screencasts
+===========
+
+These can be made with a number of tools. On Linux, just check your package
+manager. This file will focus on making them with Windows.
+
+We'd prefer `mp4` files, but if all you can get is `flv` or `swf` that will
+probably be fine too.
+
+Ones I (Ryan) have used:
+
+- [Screenr](http://www.screenr.com)
+- [Jing](http://www.techsmith.com/jing.html)
+
+Ones I know others in the lab have used:
+
+- [CamStudio](http://camstudio.org/) - See also <http://en.wikipedia.org/wiki/CamStudio>
+
+Others I have heard of, in descending order of buzz about them:
+
+- VLC - hard to get the right settings, though, and no audio
+- [BB FlashBack Express](http://www.bbsoftware.co.uk/BBFlashBackExpress/Download.aspx?start)
+- [GoView](http://goview.com/)
